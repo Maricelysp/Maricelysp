@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maricelysp
 - 👀 I’m interested in learning more about Data Science and Analytics
-- 🌱 I’m currently learning Python, SQL, Tableau
+- 🌱 I’m currently learning Python, SQL, Tableau, Machine Learning
 - 💞️ I’m looking to collaborate on various projects to improve my skill set 
 - 📫 How to reach me: Maricelys1125@gmail.com
 
